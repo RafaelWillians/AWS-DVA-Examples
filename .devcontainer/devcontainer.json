@@ -1,0 +1,21 @@
+{
+	"name": "Codespace Main",		
+	"dockerFile": "Dockerfile",
+	"features": {
+	  "ghcr.io/devcontainers/features/github-cli:1": {}
+	},
+	"customizations": {
+	  "vscode": {
+		"extensions": [
+			"mhutchie.git-graph",
+			"phil294.git-log--graph",
+			"github.vscode-github-actions",
+			"bierner.github-markdown-preview",
+			"hashicorp.terraform",
+			"ritwickdey.LiveServer",
+			"hediet.vscode-drawio"
+		]
+	  }
+	},	
+	"postCreateCommand": "chmod +x aws-cli-login.sh && chmod +x aws-cli-login-paste-credentials.sh"
+}

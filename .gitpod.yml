@@ -1,0 +1,19 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+  - name: aws-cli
+    env:
+      AWS_CLI_AUTO_PROMPT: on-partial
+    before: |
+      chmod +x aws-cli-login.sh
+      chmod +x aws-cli-login-paste-credentials.sh
+
+vscode:
+  extensions:
+    - hashicorp.terraform     
+    - hediet.vscode-drawio
+    - mhutchie.git-graph
+    - phil294.git-log--graph
+    - GitHub.vscode-github-actions
+    - ritwickdey.LiveServer
+    - bierner.markdown-preview-github-styles
