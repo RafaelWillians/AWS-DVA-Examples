@@ -1,6 +1,10 @@
-# AWS Repo Template
+# AWS-DVA-Example
 
-Repo template for use with AWS CLI, compatible with Codespaces, GitPod and DevContainer extension (for VSCode).
+Codebase criado para testes da certificação AWS Developer Associate (DVA-C02).
+
+## Conteúdos
+
+## Usado template AWS_Repo_Template
 
 Template de repositório para usar com AWS CLI, compatível com Codespaces, GitPod e extensão DevContainer (para VSCode).
 
