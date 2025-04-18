@@ -2,7 +2,9 @@
 
 Codebase criado para testes da certificação AWS Developer Associate (DVA-C02).
 
-Usado template AWS_Repo_Template
+## Conteúdos
+
+## Usado template AWS_Repo_Template
 
 Template de repositório para usar com AWS CLI, compatível com Codespaces, GitPod e extensão DevContainer (para VSCode).
 
