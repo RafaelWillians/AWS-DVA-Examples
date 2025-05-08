@@ -136,7 +136,7 @@ Abaixo há os links para o site da documentação da AWS.
 ## [AWS Certificate Manager (ACM)](https://docs.aws.amazon.com/pt_br/acm/latest/userguide/acm-overview.html)
 * [SSL Termination](https://aws.amazon.com/blogs/aws/elastic-load-balancer-support-for-ssl-termination/)
 
-## Route 53
+## [Route 53](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/Welcome.html)
 * Casos de uso
 * Zonas Hospedadas
 * Record Sets
