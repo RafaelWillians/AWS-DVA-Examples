@@ -137,36 +137,38 @@ Abaixo há os links para o site da documentação da AWS.
 * [SSL Termination](https://aws.amazon.com/blogs/aws/elastic-load-balancer-support-for-ssl-termination/)
 
 ## [Route 53](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/Welcome.html)
-* Casos de uso
-* Zonas Hospedadas
-* Record Sets
-* Fluxo de tráfego
-* Políticas de roteamento
-  * Simples
-  * Ponderado
-  * Failover
-  * Geolocalização
-  * Geoproximidade
-  * Multi-valor
-  * Latência
-* Verificação de integridade
-* Resolver
-* DNSSEC
-* Zonal-Shift
-* Alias
+* [Casos de uso](https://community.aws/content/2iXNEg3a1vS6fIGhgDtqVPYzruA/what-is-aws-route-53-and-how-does-it-work)
+* [Zonas Hospedadas](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/hosted-zones-working-with.html)
+* [Record Sets](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/rrsets-working-with.html)
+* [Fluxo de tráfego](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/traffic-flow.html)
+* [Políticas de roteamento](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy.html)
+  * [Simples](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-simple.html)
+  * [Ponderado](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-weighted.html)
+  * [Failover](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-failover.html)
+  * [Geolocalização](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-geo.html)
+  * [Geoproximidade](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-geoproximity.html)
+  * [Multi-valor](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-multivalue.html)
+  * [Latência](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-latency.html)
+* [Verificação de integridade](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/welcome-health-checks.html)
+* [Resolver](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resolver.html)
+* [DNSSEC](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/domain-configure-dnssec.html)
+* [Zonal-Shift](https://docs.aws.amazon.com/pt_br/r53recovery/latest/dg/arc-zonal-shift.how-it-works.html)
+* [Alias](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
 
-## KMS
-* Comandos CLI
-* CMK
+## [KMS](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/overview.html)
+* [Comandos CLI](https://docs.aws.amazon.com/pt_br/cli/v1/userguide/cli_kms_code_examples.html)
+* [Chaves](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html)
+  * [Chaves gerenciadas pela AWS](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html#aws-managed-cmk)
+  * [Chaves gerenciadas pelo cliente - CMK (Customer Managed Keys)](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html#customer-cmk)
 
-## Cognito
+## [Cognito](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/what-is-amazon-cognito.html)
 * IdP
 * OAuth 2
 * Autenticação Cliente-Servidor
 * Roles OAuth2
 * JWT
 * JWK
-* User Pool
+* Grupos de Usuários (User Pools)
   * App Client
   * Política de senhas
   * Atributos
@@ -175,7 +177,7 @@ Abaixo há os links para o site da documentação da AWS.
   * UI Hospedada
   * Triggers com Lambda
   * MFA
-* Identity Pools
+* Grupos de Identidades (Identity Pools)
 * Cognito Sync
 * Multi-Tenancy
 * Server-Side Custom Forms
