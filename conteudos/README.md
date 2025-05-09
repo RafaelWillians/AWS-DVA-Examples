@@ -167,16 +167,16 @@ Abaixo há os links para o site da documentação da AWS.
 * [Autenticação Cliente-Servidor](https://pt.wikipedia.org/wiki/Modelo_cliente–servidor)
 * [Roles OAuth2](https://developers.procore.com/documentation/oauth-roles)
 * [JWT](https://auth0.com/docs/secure/tokens/json-web-tokens)
-* JWK
-* Grupos de Usuários (User Pools)
-  * App Client
-  * Política de senhas
-  * Atributos
-  * Segurança Avançada
-  * Configurações de Email
-  * UI Hospedada
-  * Triggers com Lambda
-  * MFA
+* [JWK](https://auth-wiki.logto.io/pt-br/jwk)
+* [Grupos de Usuários (User Pools)](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-user-pools.html)
+  * [Clientes de Aplicação](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/user-pool-settings-client-apps.html)
+  * [Política de senhas](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/aws-properties-cognito-userpool-passwordpolicy.html)
+  * [Atributos do usuário](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/user-pool-settings-attributes.html)
+  * [Segurança Avançada](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-user-pool-settings-threat-protection.html)
+  * [Configurações de Email](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/user-pool-email.html)
+  * [UI Hospedada](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-user-pools-managed-login.html)
+  * [Triggers com Lambda](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-user-pools-working-with-lambda-triggers.html)
+  * [MFA](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/user-pool-settings-mfa.html)
 * Grupos de Identidades (Identity Pools)
 * Cognito Sync
 * Multi-Tenancy
