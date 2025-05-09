@@ -184,17 +184,17 @@ Abaixo há os links para o site da documentação da AWS.
 * [Integração da autenticação do Cognito em apps web e mobile](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-integrate-apps.html)
 * [AWS JWT Verify](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-verifying-a-jwt.html)
 
-## SNS
-* Pub/Sub
-* Origens
-* Destinos
-* Tópicos
-* Mensagens
-* Assinaturas
-* Política de filtragem
-* Proteção de dados de mensagens
-* Entrega de mensagens brutas
-* Política de entrega
+## [SNS](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
+* [Pub/Sub](https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/modernization-integrating-microservices/pub-sub.html)
+* [Origens](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-event-sources-and-destinations.html)
+* [Destinos](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-event-sources-and-destinations.html)
+* [Tópicos](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-create-topic.html)
+* [Mensagens](https://docs.aws.amazon.com/pt_br/sns/latest/dg/message-delivery.html)
+* [Assinaturas](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-create-subscribe-endpoint-to-topic.html)
+* [Política de filtragem](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-message-filtering.html)
+* [Proteção de dados de mensagens](https://docs.aws.amazon.com/pt_br/sns/latest/dg/message-data-protection.html)
+* [Entrega de mensagens brutas](https://docs.aws.amazon.com/pt_br/sns/latest/dg/message-delivery.html)
+* [Política de entrega](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-message-delivery-retries.html)
 * Fila de Mensagens Mortas (Dead-Letter Queue)
 * Aplicação como Assinante
 
