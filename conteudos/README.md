@@ -198,18 +198,18 @@ Abaixo há os links para o site da documentação da AWS.
 * [Fila de Mensagens Mortas (Dead-Letter Queue)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-dead-letter-queues.html)
 * [Aplicação como Assinante](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-mobile-application-as-subscriber.html)
 
-## SQS
-* Envio de mensagens grandes
-* Fila Padrão
-* Fila FIFO
-* ABAC
-* Política de Acesso
-* Metadados de mensagens
-* Tempo limite de visibilidade
-* Filas em atraso
-* Timers de mensagens
-* Filas temporárias
-* Busca curta e busca longa
+## [SQS](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
+* [Envio de mensagens grandes](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-managing-large-messages.html)
+* [Fila Padrão](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html)
+* [Fila FIFO](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-fifo-queues.html)
+* [ABAC](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-abac.html)
+* [Política de Acesso](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-overview-of-managing-access.html)
+* [Metadados de mensagens](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-message-metadata.html)
+* [Tempo limite de visibilidade](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility-timeout.html)
+* [Filas em atraso](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-delay-queues.html)
+* [Timers de mensagens](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-message-timers.html)
+* [Filas temporárias](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html)
+* [Sondagem curta e sondagem longa](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html)
 
 ## Kinesis
 * Kinesis Data Streams
