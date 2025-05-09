@@ -774,3 +774,15 @@ Abaixo há os links para o site da documentação da AWS.
 ## Systems Manager
 
 ## Trusted Advisor
+
+## Global Accelerator
+
+## CloudHSM
+
+## IAM Identity Center (AWS Single Sign-On)
+
+## Macie
+
+## Resource Access Manager (RAM)
+
+## WAF
