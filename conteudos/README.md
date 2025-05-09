@@ -162,11 +162,11 @@ Abaixo há os links para o site da documentação da AWS.
   * [Chaves gerenciadas pelo cliente - CMK (Customer Managed Keys)](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html#customer-cmk)
 
 ## [Cognito](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/what-is-amazon-cognito.html)
-* IdP
-* OAuth 2
-* Autenticação Cliente-Servidor
-* Roles OAuth2
-* JWT
+* [O que é IdP?](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_roles_providers.html)
+* [OAuth 2](https://auth0.com/pt/intro-to-iam/what-is-oauth-2)
+* [Autenticação Cliente-Servidor](https://pt.wikipedia.org/wiki/Modelo_cliente–servidor)
+* [Roles OAuth2](https://developers.procore.com/documentation/oauth-roles)
+* [JWT](https://auth0.com/docs/secure/tokens/json-web-tokens)
 * JWK
 * Grupos de Usuários (User Pools)
   * App Client
