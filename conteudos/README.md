@@ -195,8 +195,8 @@ Abaixo há os links para o site da documentação da AWS.
 * [Proteção de dados de mensagens](https://docs.aws.amazon.com/pt_br/sns/latest/dg/message-data-protection.html)
 * [Entrega de mensagens brutas](https://docs.aws.amazon.com/pt_br/sns/latest/dg/message-delivery.html)
 * [Política de entrega](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-message-delivery-retries.html)
-* Fila de Mensagens Mortas (Dead-Letter Queue)
-* Aplicação como Assinante
+* [Fila de Mensagens Mortas (Dead-Letter Queue)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-dead-letter-queues.html)
+* [Aplicação como Assinante](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-mobile-application-as-subscriber.html)
 
 ## SQS
 * Envio de mensagens grandes
