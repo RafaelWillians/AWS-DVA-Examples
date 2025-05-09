@@ -752,3 +752,25 @@ Abaixo há os links para o site da documentação da AWS.
 ## Amplify
 
 ## OpenSearch Service
+
+## EMR
+
+## Glue
+
+## Simple Email Service (Amazon SES)
+
+## FSx
+
+## EC2 Auto Scaling
+
+## CloudShell
+
+## CodeArtifact
+
+## Config
+
+## Organizations
+
+## Systems Manager
+
+## Trusted Advisor
