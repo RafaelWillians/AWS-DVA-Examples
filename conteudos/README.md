@@ -177,12 +177,12 @@ Abaixo há os links para o site da documentação da AWS.
   * [UI Hospedada](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-user-pools-managed-login.html)
   * [Triggers com Lambda](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-user-pools-working-with-lambda-triggers.html)
   * [MFA](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/user-pool-settings-mfa.html)
-* Grupos de Identidades (Identity Pools)
-* Cognito Sync
-* Multi-Tenancy
-* Server-Side Custom Forms
-* Client-Side Custom Forms
-* AWS JWT Verify
+* [Bancos/Grupos de Identidades (Identity Pools)](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-identity.html)
+* [Cognito Sync](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-sync.html)
+* [Multi-Tenancy](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/multi-tenant-application-best-practices.html)
+* [Modelos de autenticação](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/authentication-flows-public-server-side.html)
+* [Integração da autenticação do Cognito em apps web e mobile](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-integrate-apps.html)
+* [AWS JWT Verify](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-verifying-a-jwt.html)
 
 ## SNS
 * Pub/Sub
