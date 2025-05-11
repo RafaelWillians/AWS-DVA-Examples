@@ -693,27 +693,29 @@ Abaixo há os links para o site da documentação da AWS.
 * [Invocação Assíncrona (Async)](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/invocation-async.html)
 
 
-## CloudFront
-* Lambda@Edge
-* CloudFront Functions
-* Origem
-* Política de Caching
-* Política de Requisição de Origem
-* Política de Header de Resposta
-* Origin Access Identity (OAI)
-* Origin Access Control (OAC)
-* Origin Shield
-* Restrições Geográficas
-* Parâmetros de String de Consulta em Cache
-* Conteúdo baseado em Cookies
-* Tipos de Conteúdos
-* Invalidação de Cache
-* Cache Busting com Digests
-* Objeto Raíz padrão
-* Exigência de HTTPS
-* URLs Assinadas
-* Cookies Assinados
-* Páginas de erro customizadas
+## [Amazon CloudFront](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+
+* [Lambda@Edge](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html)
+* [CloudFront Functions](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/cloudfront-functions.html)
+* [Origem](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html)
+* [Política de Caching](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/using-managed-cache-policies.html)
+* [Política de Requisição de Origem](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/origin-request-create-origin-request-policy.html)
+* [Política de Header de Resposta](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/using-managed-response-headers-policies.html)
+* [Origin Access Identity (OAI)](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+* [Origin Access Control (OAC)](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+* [Origin Shield](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/origin-shield.html)
+* [Restrições Geográficas](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html)
+* [Parâmetros de String de Consulta em Cache](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/QueryStringParameters.html)
+* [Conteúdo baseado em Cookies](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/Cookies.html)
+* [Tipos de Conteúdos](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/ServingCompressedFiles.html)
+* [Invalidação de Cache](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html)
+* [Cache Busting com Digests](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/CacheInvalidation.html)
+* [Objeto Raíz padrão](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/DefaultRootObject.html)
+* [Exigência de HTTPS](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/using-https-cloudfront-to-custom-origin.html)
+* [URLs Assinadas](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-urls.html)
+* [Cookies Assinados](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-cookies.html)
+* [Páginas de erro customizadas](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/custom-error-pages.html)
+
 
 ## Aurora
 * Escalabilidade
