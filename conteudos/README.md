@@ -531,81 +531,89 @@ Abaixo há os links para o site da documentação da AWS.
 * [Pesquisa por Byte Range](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/RangeGET.html)
 * [Interoperabilidade](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingObjects.html)
 
-## Elasticache
-* Redis
-* Tipos de Dados
-* Memcached
+## [Amazon ElastiCache](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/WhatIs.html)
 
-## API Gateway
-* OpenAPI
-* OpenAPI com o API Gateway
+* [Redis](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/WhatIs.html)
+* [Tipos de Dados](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/json-document-overview.html)
+* [Memcached](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/WhatIs.html)
+
+## [Amazon API Gateway](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/welcome.html)
+
+* [OpenAPI](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/api-gateway-import-api.html)
+* [OpenAPI com o API Gateway](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/api-gateway-import-api.html)
 * API REST
-  * Componentes API REST
+  * [Componentes API REST](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/apigateway-rest-api.html)
 * API HTTP
-  * Componentes API REST
+  * [Componentes API HTTP](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api.html)
 
-## MemoryDB
+## [Amazon MemoryDB](https://docs.aws.amazon.com/pt_br/memorydb/latest/devguide/what-is-memorydb.html)
 
-## Step Functions
-* Casos de Uso
-* Estados
-* Entradas e Saídas
+## [AWS Step Functions](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/welcome.html)
 
-## API da AWS
-* CLI
-  * Comandos
-  * Códigos de retorno
-  * Wizards
-  * Formatos de saída
-  * Paginação
-  * Flags de comandos
-  * Comandos de espera (Wait)
-  * Aliases no CLI
-  * Filtragem
-  * Consultas (querying)
-  * Uso de aspas com strings
-  * Esqueletos do CLI
-  * Input Flag
-  * Sintaxe simplificada
-  * PowerShell AWS para AWS CLI
-  * Variáveis de ambiente
-  * Encadeamento com variáveis de ambiente
-  * Encadeamento com XArgs
-  * Arquivos de configurações
-  * Perfis nomeados
-  * Comandos Configure
-  * CLI com SSO
-  * Retentativas no CLI
-  * CLI com metadados de EC2
-  * CLI por Proxy
-  * CLI com Roles do IAM
-  * CLI com Credenciais externas
-  * Imagem Docker do CLI
-  * Instalação / Atualização
-  * Histórico de Versões
-  * MFA
-  * Opções de preenchimento automático
-  * CLI Autoprompt
-* Chaves de acesso
-* Retentativas e Backoff Exponencial
-* Smithy
-* Security Token Service (STS)
-* Assinar requisições de API AWS
-* AWS Signature Version 4
-* Endpoints de Serviços
-  * Endpoints regionais
-  * Endpoints globais
-  * Endpoints FIPS
-  * Troubleshooting
-  * Endpoints Dualstack
-* Ações de API
-* JSON
-* YAML
-* JQ Library
-* JP Library
-* YQ Library
-* Parâmetros de arquivos
-* Encoding Base64
+* [Casos de Uso](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/use-cases.html)
+* [Estados](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/concepts-statemachines.html)
+* [Entradas e Saídas](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/concepts-input-output-filtering.html)
+
+## [API da AWS – Visão Geral](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-welcome.html)
+
+* [AWS CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-welcome.html)
+  * [Comandos](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage.html)
+  * [Códigos de retorno](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-return-codes.html)
+  * [Wizards](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-wizard.html)
+  * [Formatos de saída](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-output.html)
+  * [Paginação](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-pagination.html)
+  * [Flags de comandos](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-options.html)
+  * [Comandos de espera (Wait)](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-wait.html)
+  * [Aliases no CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-aliases.html)
+  * [Filtragem](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-filter.html)
+  * [Consultas (querying)](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-output.html#cli-usage-output-filter)
+  * [Uso de aspas com strings](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-parameters-quoting.html)
+  * [Esqueletos do CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-skeleton.html)
+  * [Input Flag](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-input.html)
+  * [Sintaxe simplificada](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-syntax.html)
+  * [PowerShell AWS para AWS CLI](https://docs.aws.amazon.com/pt_br/powershell/latest/userguide/pstools.html)
+  * [Variáveis de ambiente](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-envvars.html)
+  * [Encadeamento com variáveis de ambiente](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-envvars.html)
+  * [Encadeamento com XArgs](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-output.html#cli-usage-output-filter)
+  * [Arquivos de configurações](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-files.html)
+  * [Perfis nomeados](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-profiles.html)
+  * [Comandos Configure](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-quickstart.html)
+  * [CLI com SSO](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-sso.html)
+  * [Retentativas no CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-retries.html)
+  * [CLI com metadados de EC2](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-ec2-metadata.html)
+  * [CLI por Proxy](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-proxy.html)
+  * [CLI com Roles do IAM](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-role.html)
+  * [CLI com Credenciais externas](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-external.html)
+  * [Imagem Docker do CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-docker.html)
+  * [Instalação / Atualização](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/install-cliv2.html)
+  * [Histórico de Versões](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-release-notes.html)
+  * [MFA](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-mfa.html)
+  * [Opções de preenchimento automático](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-completion.html)
+  * [CLI Autoprompt](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-autoprompt.html)
+
+* [Chaves de Acesso](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_access-keys.html)
+* [Retentativas e Backoff Exponencial](https://docs.aws.amazon.com/pt_br/general/latest/gr/api-retries.html)
+* [Smithy](https://smithy.io/)
+* [AWS Security Token Service (STS)](https://docs.aws.amazon.com/pt_br/STS/latest/APIReference/Welcome.html)
+* [Assinar Requisições de API AWS](https://docs.aws.amazon.com/pt_br/general/latest/gr/signing_aws_api_requests.html)
+* [AWS Signature Version 4](https://docs.aws.amazon.com/pt_br/general/latest/gr/signature-version-4.html)
+* [Endpoints de Serviços](https://docs.aws.amazon.com/pt_br/general/latest/gr/aws-service-information.html)
+
+  * [Endpoints Regionais](https://docs.aws.amazon.com/pt_br/general/latest/gr/rande.html)
+  * [Endpoints Globais](https://docs.aws.amazon.com/pt_br/general/latest/gr/rande.html#global-endpoints)
+  * [Endpoints FIPS](https://docs.aws.amazon.com/pt_br/general/latest/gr/fips-endpoints.html)
+  * [Troubleshooting](https://docs.aws.amazon.com/pt_br/general/latest/gr/troubleshooting.html)
+  * [Endpoints Dualstack](https://docs.aws.amazon.com/pt_br/general/latest/gr/dualstack-endpoints.html)
+
+* [Ações de API](https://docs.aws.amazon.com/pt_br/general/latest/gr/api-actions.html)
+* [JSON](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-output.html#cli-usage-output-json)
+* [YAML](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-output.html#cli-usage-output-yaml)
+* [JQ Library](https://stedolan.github.io/jq/)
+* [JP Library](https://jmespath.org/)
+* [YQ Library](https://github.com/mikefarah/yq)
+* [Parâmetros de Arquivos](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-parameters.html)
+* [Encoding Base64](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-parameters.html#cli-usage-parameters-base64)
+
 
 ## VPC
 * Componentes
