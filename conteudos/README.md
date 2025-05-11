@@ -22,7 +22,7 @@ Abaixo há os links para o site da documentação da AWS.
 * Immutable
 * Traffic splitting
 
-[Outras implantações](https://docs.aws.amazon.com/pt_br/elasticbeanstalk/latest/dg/using-features.CNAMESwap.html)
+#### [Outras implantações](https://docs.aws.amazon.com/pt_br/elasticbeanstalk/latest/dg/using-features.CNAMESwap.html)
 * In-place
 * Blue/Green
 
@@ -47,9 +47,12 @@ Abaixo há os links para o site da documentação da AWS.
 
 #### [Configurar RDS dentro ou fora do ambiente EB](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.RDS.html)
 
-## [Elastic Container Service (ECS)](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/Welcome.html)
+## [Fargate](https://aws.amazon.com/pt/fargate/)
+* [Tarefas do Fargate](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/getting-started-fargate.html)
+* [Tamanhos de Tarefas](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/capacity-tasksize.html)
+* [Comparativo Fargate x Lambda](https://docs.aws.amazon.com/pt_br/decision-guides/latest/fargate-or-lambda/fargate-or-lambda.html)
 
-#### [Fargate](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/AWS_Fargate.html)
+## [Elastic Container Service (ECS)](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/Welcome.html)
 
 #### Função (Role) de execução e Função (Role) de Tarefa
 * [Role de execução](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_execution_IAM_role.html)
@@ -110,10 +113,6 @@ Abaixo há os links para o site da documentação da AWS.
 
 ## [Amazon Managed Service for Grafana](https://docs.aws.amazon.com/pt_br/grafana/latest/userguide/what-is-Amazon-Managed-Service-Grafana.html)
 
-#### [Fargate](https://aws.amazon.com/pt/fargate/)
-* [Tarefas do Fargate](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/getting-started-fargate.html)
-* [Tamanhos de Tarefas](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/capacity-tasksize.html)
-* [Comparativo Fargate x Lambda](https://docs.aws.amazon.com/pt_br/decision-guides/latest/fargate-or-lambda/fargate-or-lambda.html)
 
 ## [X-Ray](https://docs.aws.amazon.com/pt_br/xray/latest/devguide/aws-xray.html)
 
