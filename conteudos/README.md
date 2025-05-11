@@ -364,11 +364,11 @@ Abaixo há os links para o site da documentação da AWS.
 * [Comparativo SAM x CloudFormation](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-vs-cloudformation.html)
 * [Comandos CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-commands.html)
 
-## Conceitos de CI/CD
+## [Conceitos de CI/CD](https://www.youtube.com/watch?v=j0DNdPXTBi0)
 
-* [Continuous Integration (CI)](https://www.youtube.com/watch?v=1Yc3PzYVgS8)
-* [Continuous Delivery (CD)](https://www.youtube.com/watch?v=aoX0bZt9Kro)
-* [Continuous Deployment (CD)](https://www.youtube.com/watch?v=K4YxjvD7q3s)
+* Continuous Integration (CI)
+* Continuous Delivery (CD)
+* Continuous Deployment (CD)
 
 ## [CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html)
 
