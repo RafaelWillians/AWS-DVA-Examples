@@ -717,38 +717,40 @@ Abaixo há os links para o site da documentação da AWS.
 * [Páginas de erro customizadas](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/custom-error-pages.html)
 
 
-## Aurora
-* Escalabilidade
-* Aurora Provisionado
-* Instâncias de Leitura
-* Instâncias de Escrita
-* Aurora Serverless v2
-* Aurora Global Database
-* API de Dados RDS
-* Babelfish para Aurora
+## [Amazon Aurora](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
 
-## Elastic Load Balancer
-* Regras de tráfego
-* Application Load Balancer
-  * Regras
-    * Roteamento de requisições
-    * Tipos de Ações
-    * Respostas Fixas
-    * Ações de Redirecionamento
-    * Tipos de condições
-  * Header do Host
-  * Header HTTP
-  * Método de requisição HTTP
-  * Padrão de caminhos
-  * Strings de consultas
-  * IP de origem
-* Network Load Balancer
-* Classic Load Balancer
-* Sticky Sessions
-* Cross Zone Load Balancing
-* XFF-Header
-* Verificações de Integridade
-* Registrar/desregistrar alvos
+* [Escalabilidade](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.how-it-works.html#aurora-serverless-v2.scaling)
+* [Aurora Provisionado](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/USER_OnDemandDBInstances.html)
+* [Instâncias de Leitura](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html)
+* [Instâncias de Escrita](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.html)
+* [Aurora Serverless v2](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
+* [Aurora Global Database](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html)
+* [API de Dados RDS](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/data-api.html)
+* [Babelfish para Aurora](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/babelfish.html)
+
+## [Elastic Load Balancing](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
+
+* [Regras de tráfego](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html)
+* [Application Load Balancer](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/introduction.html)
+  * [Regras](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/listener-update-rules.html)
+    * [Roteamento de requisições](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/listener-update-rules.html#rule-condition-types)
+    * [Tipos de Ações](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/listener-update-rules.html#rule-action-types)
+    * [Respostas Fixas](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/listener-update-rules.html#fixed-response-action)
+    * [Ações de Redirecionamento](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/listener-update-rules.html#redirect-action)
+    * [Tipos de condições](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/listener-update-rules.html#rule-condition-types)
+  * [Header do Host](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html#host-conditions)
+  * [Header HTTP](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html#http-header-conditions)
+  * [Método de requisição HTTP](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html#http-method-conditions)
+  * [Padrão de caminhos](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html#path-pattern-conditions)
+  * [Strings de consultas](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html#query-string-conditions)
+  * [IP de origem](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html#source-ip-conditions)
+* [Network Load Balancer](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/network/introduction.html)
+* [Classic Load Balancer](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/classic/introduction.html)
+* [Sticky Sessions](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/sticky-sessions.html)
+* [Cross Zone Load Balancing](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/application-load-balancers.html#cross-zone-load-balancing)
+* [XFF-Header](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/x-forwarded-headers.html)
+* [Verificações de Integridade](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/target-group-health-checks.html)
+* [Registrar/desregistrar alvos](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/target-group-register-targets.html)
 
 ## Athena
 * Componentes
