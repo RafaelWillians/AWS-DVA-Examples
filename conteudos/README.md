@@ -405,30 +405,32 @@ Abaixo há os links para o site da documentação da AWS.
 * [Casos de Uso](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
 
 
-## RDS
-* Criptografia
-* Backup
-* Restaurar backup
-* Grupos de subredes
-* Multi-AZ
-* Réplicas de leitura
-* Multi-AZ x Réplicas de Leitura
-* Instância do RDS
-* RDS Performance Insights
-* RDS Custom
-* RDS Proxy
-* Leituras e escritas otimizadas
-* Autenticação por IAM
-* Autenticação Kerberos
-* Integração do RDS com Secrets Manager
-* Master User Account
-* Grupos de parâmetros
-* Acessibilidade Pública
-* Estabelecer conexões públicas
-* Estabelecer conexões privadas
-* Grupos de segurança do RDS
-* Implantação Blue/Green
-* Suporte estendido
+## [Amazon RDS](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Welcome.html)
+
+* [Criptografia](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Overview.Encryption.html)
+* [Backup](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html)
+* [Restaurar backup](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_RestoreFromSnapshot.html)
+* [Grupos de subredes](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)
+* [Multi-AZ](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
+* [Réplicas de leitura](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
+* [Multi-AZ x Réplicas de Leitura](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
+* [Instância do RDS](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Overview.DBInstance.html)
+* [RDS Performance Insights](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_PerfInsights.html)
+* [RDS Custom](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/rds-custom.html)
+* [RDS Proxy](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/rds-proxy.html)
+* [Leituras e escritas otimizadas](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/rds-optimized-reads.html)
+* [Autenticação por IAM](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)
+* [Autenticação Kerberos](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/postgresql-kerberos.html)
+* [Integração do RDS com Secrets Manager](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/rds-secrets-manager.html)
+* [Master User Account](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Oracle.Concepts.Privileges.html)
+* [Grupos de parâmetros](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_WorkingWithParamGroups.html)
+* [Acessibilidade Pública](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)
+* [Estabelecer conexões públicas](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)
+* [Estabelecer conexões privadas](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)
+* [Grupos de segurança do RDS](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Overview.RDSSecurityGroups.html)
+* [Implantação Blue/Green](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/blue-green-deployments.html)
+* [Suporte estendido](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_Maintenance.html)
+
 
 ## S3
 * Regras de nomes de buckets
