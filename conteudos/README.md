@@ -283,41 +283,45 @@ Abaixo há os links para o site da documentação da AWS.
 * [Nome de usuário padrão](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html#AccessingInstancesLinux_connecting)
 
 ## IAM
-* Componentes principais
-  * Usuários
-  * Grupos
-  * Políticas
-  * Funções (ou Perfis ou Roles) 
-* Tipos de políticas
-* Estrutura de políticas
-* Políticas de senhas
-* Chaves de acesso
-* MFA
-* Credenciais de segurança temporárias
-* Funções entre-contas (Cross-account roles)
-* IAM Security Token Service (STS)
-* Federação de Identidade
-* AssumeRoleWithWebIdentity
+
+* **Componentes principais**
+
+  * [Usuários](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_users.html)
+  * [Grupos](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_groups.html)
+  * [Políticas](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/access_policies.html)
+  * [Funções (ou Perfis ou Roles)](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_roles.html)
+* [Tipos de políticas](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/access_policies.html#access_policy-types)
+* [Estrutura de políticas](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/access_policies.html#access_policy-structure)
+* [Políticas de senhas](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html)
+* [Chaves de acesso](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_access-keys.html)
+* [MFA (Autenticação Multifator)](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_mfa.html)
+* [Credenciais de segurança temporárias](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_temp.html)
+* [Funções entre-contas (Cross-account roles)](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_roles_create_for-user.html#roles-create-crossaccountuser)
+* [IAM Security Token Service (STS)](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_temp.html)
+* [Federação de Identidade](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_roles_providers.html)
+* [AssumeRoleWithWebIdentity](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_request.html)
 
 ## CloudTrail
-* Histórico de eventos
-* Trilhas
-* CloudTrail para CloudWatch
-* Gerenciamento e Eventos de dados
+
+* [Histórico de eventos](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/view-cloudtrail-events.html)
+* [Trilhas](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/cloudtrail-create-and-update-a-trail.html)
+* [CloudTrail para CloudWatch](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/send-cloudtrail-events-to-cloudwatch-logs.html)
+* [Gerenciamento e Eventos de dados](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/logging-data-events-with-cloudtrail.html)
 
 ## CloudWatch
-* Conceitos de Observabilidade
-* Logs
-* Grupos de Logs
-* Log Streams
-* Eventos de Logs
-* Log Insights
-* Campos descobertos
-* Métricas
-* Disponibilidade dos dados
-* Métricas no nível de host
-* CloudWatch Agent
-* Coleta de Logs
+
+* [Conceitos de Observabilidade](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+* [Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
+* [Grupos de Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/Working-with-log-groups-and-streams.html)
+* [Log Streams](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/Working-with-log-groups-and-streams.html)
+* [Eventos de Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/Working-with-log-events.html)
+* [Log Insights](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/AnalyzingLogData.html)
+* [Campos descobertos](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/CWL_AnalyzeLogData-discover-fields.html)
+* [Métricas](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/working_with_metrics.html)
+* [Disponibilidade dos dados](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Metric)
+* [Métricas no nível de host](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/host-level-metrics.html)
+* [CloudWatch Agent](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html)
+* [Coleta de Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/AgentReference.html)
 
 ## EventBridge
 * Componentes principais
