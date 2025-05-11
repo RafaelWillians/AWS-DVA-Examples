@@ -781,58 +781,59 @@ Abaixo há os links para o site da documentação da AWS.
 * [Bloqueio de endereço lógico](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-using-volumes.html)
 * [EBS Multi-Attach](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volumes-multi.html)
 
-## AppConfig
+## [AWS AppConfig](https://docs.aws.amazon.com/pt_br/appconfig/latest/userguide/what-is-appconfig.html)
 
-## Amazon Q
+## [Amazon Q](https://aws.amazon.com/q/)
 
-## CodeWhisperer
+## [Amazon CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
 
-## CodeGuru
+## [Amazon CodeGuru](https://aws.amazon.com/codeguru/)
 
-## Amazon Detective
+## [Amazon Detective](https://aws.amazon.com/detective/)
 
-## Batch
+## [AWS Batch](https://aws.amazon.com/batch/)
 
-## Firewall Manager
+## [AWS Firewall Manager](https://aws.amazon.com/firewall-manager/)
 
-## AppSync
-* O que é GraphQL?
-* Sobre o AppSync
+## [AWS AppSync](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/what-is-appsync.html)
+* [O que é GraphQL?](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/what-is-graphql.html)
+* [Sobre o AppSync](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/what-is-appsync.html)
 
-## Amplify
+## [AWS Amplify](https://aws.amazon.com/amplify/)
 
-## OpenSearch Service
+## [Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)
 
-## EMR
+## [Amazon EMR](https://aws.amazon.com/emr/)
 
-## Glue
+## [AWS Glue](https://aws.amazon.com/glue/)
 
-## Simple Email Service (Amazon SES)
+## [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/)
 
-## FSx
+## [Amazon FSx](https://aws.amazon.com/fsx/)
 
-## EC2 Auto Scaling
+## [Amazon EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)
 
-## CloudShell
+## [AWS CloudShell](https://aws.amazon.com/cloudshell/)
 
-## CodeArtifact
+## [AWS CodeArtifact](https://aws.amazon.com/codeartifact/)
 
-## Config
+## [AWS Config](https://aws.amazon.com/config/)
 
-## Organizations
+## [AWS Organizations](https://aws.amazon.com/organizations/)
 
-## Systems Manager
+## [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
 
-## Trusted Advisor
+## [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
 
-## Global Accelerator
+## [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
 
-## CloudHSM
+## [AWS CloudHSM](https://aws.amazon.com/cloudhsm/)
 
-## IAM Identity Center (AWS Single Sign-On)
+## [AWS IAM Identity Center (AWS Single Sign-On)](https://aws.amazon.com/iam/identity-center/)
 
-## Macie
+## [Amazon Macie](https://aws.amazon.com/macie/)
 
-## Resource Access Manager (RAM)
+## [AWS Resource Access Manager (RAM)](https://aws.amazon.com/ram/)
 
-## WAF
+## [AWS WAF](https://aws.amazon.com/waf/)
+
