@@ -752,28 +752,34 @@ Abaixo há os links para o site da documentação da AWS.
 * [Verificações de Integridade](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/target-group-health-checks.html)
 * [Registrar/desregistrar alvos](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/target-group-register-targets.html)
 
-## Athena
-* Componentes
-* Tipos de Dados
-* Tabela
-* SerDe
+## [Amazon Athena](https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html)
 
-## AWS Copilot
+* [Componentes](https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html)
+* [Tipos de Dados](https://docs.aws.amazon.com/pt_br/athena/latest/ug/data-types.html)
+* [Tabela](https://docs.aws.amazon.com/pt_br/athena/latest/ug/tables-databases-columns-names.html)
+* [SerDe](https://docs.aws.amazon.com/pt_br/athena/latest/ug/serde-reference.html)
 
-## EFS
-* EFS Client
+## [AWS Copilot](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/AWS_Copilot.html)
 
-## EBS
-* Tipos de Volumes
-* HDD
-* RAID
-* SSD
-* Fita Magnética
-* Mover volumes
-* Volumes EBS x Volumes de armazenamento de instâncias (Instance store)
-* Esquemas de particionamento
-* Bloqueio de endereço lógico
-* EBS Multi-Attach
+* [Instalar a CLI do AWS Copilot](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/copilot-install.html)
+* [Implantação de uma amostra de aplicação](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/copilot-deploy.html)
+
+## [Amazon EFS](https://docs.aws.amazon.com/pt_br/efs/latest/ug/what-is-efs.html)
+
+* [EFS Client](https://docs.aws.amazon.com/pt_br/efs/latest/ug/mounting-fs.html)
+
+## [Amazon EBS](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AmazonEBS.html)
+
+* [Tipos de Volumes](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volume-types.html)
+* [HDD](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volume-types.html#ebs-volume-types)
+* [RAID](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/raid-config.html)
+* [SSD](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volume-types.html#ebs-volume-types)
+* [Fita Magnética](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-creating-snapshot.html)
+* [Mover volumes](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-moving-volume.html)
+* [Volumes EBS x Volumes de armazenamento de instâncias (Instance store)](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/InstanceStorage.html)
+* [Esquemas de particionamento](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-partitioning.html)
+* [Bloqueio de endereço lógico](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-using-volumes.html)
+* [EBS Multi-Attach](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volumes-multi.html)
 
 ## AppConfig
 
