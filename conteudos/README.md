@@ -249,10 +249,10 @@ Abaixo há os links para o site da documentação da AWS.
 * [Time-to-Live (TTL)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/TTL.html)
 * [DynamoDB Streams](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Streams.html)
 * [Erros comuns](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Programming.Errors.html)
-* Índices
-  * Local Secondary Indexes (LSI)
-  * Global Secondary Indexes (GSI)
-* DynamoDB Accelerator (DAX)
+* [Índices](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
+  * [Local Secondary Indexes (LSI)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/LSI.html)
+  * [Global Secondary Indexes (GSI)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GSI.html)
+* [DynamoDB Accelerator (DAX)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DAX.concepts.html)
 
 ## EC2
 * Cloud Init
