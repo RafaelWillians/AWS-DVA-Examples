@@ -137,6 +137,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [SSL Termination](https://aws.amazon.com/blogs/aws/elastic-load-balancer-support-for-ssl-termination/)
 
 ## [Route 53](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/Welcome.html)
+* [Registros DNS - vídeo explicativo](https://youtu.be/HnUDtycXSNE)
 * [Casos de uso](https://community.aws/content/2iXNEg3a1vS6fIGhgDtqVPYzruA/what-is-aws-route-53-and-how-does-it-work)
 * [Zonas Hospedadas](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/hosted-zones-working-with.html)
 * [Record Sets](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/rrsets-working-with.html)
@@ -154,6 +155,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [DNSSEC](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/domain-configure-dnssec.html)
 * [Zonal-Shift](https://docs.aws.amazon.com/pt_br/r53recovery/latest/dg/arc-zonal-shift.how-it-works.html)
 * [Alias](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
+* [AWS Private Certificate Authority](https://docs.aws.amazon.com/pt_br/privateca/latest/userguide/PcaWelcome.html)
 
 ## [KMS](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/overview.html)
 * [Comandos CLI](https://docs.aws.amazon.com/pt_br/cli/v1/userguide/cli_kms_code_examples.html)
