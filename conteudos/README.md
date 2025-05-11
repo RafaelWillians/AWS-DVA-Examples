@@ -232,23 +232,23 @@ Abaixo há os links para o site da documentação da AWS.
 * [Rotação automática](https://docs.aws.amazon.com/pt_br/secretsmanager/latest/userguide/rotating-secrets.html)
 * [CLI](https://docs.aws.amazon.com/pt_br/cli/v1/userguide/cli_secrets-manager_code_examples.html)
 
-## DynamoDB
-* Tabelas
-* Consistência de leituras
-* Partições
-* Chaves primárias
+## [DynamoDB](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduction.html)
+* [Tabelas](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/WorkingWithTables.html)
+* [Consistência de leituras](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.ReadConsistency.html)
+* [Partições](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
+* [Chaves primárias](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html)
   * Simples
   * Composta
-* Query
-* Scan
-* Capacidade Provisionada
-* Capacidade Sob-demanda
-* Calcular leituras e escritas (RCU e WCU)
-* Tabelas Globais
-* Transações
-* Time-to-Live (TTL)
-* DynamoDB Streams
-* Erros comuns
+* [Query](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Query.html)
+* [Scan](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/APIReference/API_Scan.html)
+* [Capacidade Provisionada](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/provisioned-capacity-mode.html)
+* [Capacidade Sob-demanda](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/on-demand-capacity-mode.html)
+* [Calcular leituras e escritas (RCU e WCU)](https://klouddb.io/dynamodb-for-dbas-calculating-rcus-and-wcus/)
+* [Tabelas Globais](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GlobalTables.html)
+* [Transações](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/transaction-apis.html)
+* [Time-to-Live (TTL)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/TTL.html)
+* [DynamoDB Streams](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Streams.html)
+* [Erros comuns](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Programming.Errors.html)
 * Índices
   * Local Secondary Indexes (LSI)
   * Global Secondary Indexes (GSI)
