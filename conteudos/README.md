@@ -513,21 +513,23 @@ Abaixo há os links para o site da documentação da AWS.
 * [AWS Marketplace for S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/marketplace.html)
 * [S3 Batch Operations](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/batch-ops.html)
 * [S3 Inventory](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-inventory.html)
-* S3 Select
-  * Comparativo S3 Select x Athena
-* Tags de objetos
-* Logs do servidor
-* S3 Event Notifications
-* Storage Lens
-* Hospedagem de site estático
-  * Configurar hospedagem
-  * Redirecionar requisições
-  * Acesso público
-  * Política de bucket
-  * Single Page Apps (SPA)
-* Multipart Upload
-* Pesquisa por Byte Range
-* Interoperabilidade
+* [S3 Select](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/using-select.html)
+
+  * [Comparativo S3 Select x Athena](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/selecting-content-from-objects.html)
+* [Tags de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/object-tagging.html)
+* [Logs do servidor](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/enable-server-access-logging.html)
+* [S3 Event Notifications](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/EventNotifications.html)
+* [Storage Lens](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage_lens_basics_metrics_recommendations.html)
+* [Hospedagem de site estático](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/WebsiteHosting.html)
+
+  * [Configurar hospedagem](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
+  * [Redirecionar requisições](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Redirects.html)
+  * [Acesso público](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/WebsiteAccessPermissionsReqd.html)
+  * [Política de bucket](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/WebsiteAccessPermissionsReqd.html)
+  * [Single Page Apps (SPA)](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
+* [Multipart Upload](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/mpu-upload-object.html)
+* [Pesquisa por Byte Range](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/RangeGET.html)
+* [Interoperabilidade](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingObjects.html)
 
 ## Elasticache
 * Redis
