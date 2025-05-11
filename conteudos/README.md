@@ -615,78 +615,83 @@ Abaixo há os links para o site da documentação da AWS.
 * [Encoding Base64](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-parameters.html#cli-usage-parameters-base64)
 
 
-## VPC
-* Componentes
-* Recursos principais
-* VPC padrão
-* Excluir VPCs
-* Rota padrão
-* VPCs compartilhadas
-* NACL
-* Grupos de segurança
-* Stateful
-* Stateless
-* Tabela de rotas
-* Gateways
-  * Internet Gateway
-  * Egress Only Internet Gateway
-* IP Elástico
-* Lista de Prefixos Gerenciados
-* Suporte a IPv6
-* Network Address Usage
-* Direct Connect
-* Endpoints de VPC
-  * Endpoint de Interface
-  * Endpoint de Gateway
-  * Endpoint de Gateway Load Balancer
-* PrivateLink
-* VPC Flow Logs
-* AWS Virtual Private Network (AWS VPN)
-* Site-to-Site VPN
-* Virtual Private Gateway (VGW)
-* Customer Gateway (Gateway de Cliente - CGW)
-* Transit Gateway para VPN
-* AWS Client VPN
-* Network Address Translation - NAT
-* Gateway NAT
-* Instância NAT
-* Jumpbox
-* VPC Lattice
-* Transit Gateway
-* Espelhamento de Tráfego
-* Route53 Resolver DNS Firewall
-* AWS Network Firewall
-* Emparelhamento de VPC (VPC Peering)
+## [Amazon VPC](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html)
 
-## Lambda
-* Versões de Funções
-* Aliases
-* Layers
-* Sets de Instruções
-* Tempos de execuções (Runtimes)
+* [Componentes](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html#vpc-components)
+* [Recursos principais](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html#vpc-resources)
+* [VPC padrão](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/default-vpc.html)
+* [Excluir VPCs](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/delete-vpc.html)
+* [Rota padrão](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Route_Tables.html)
+* [VPCs compartilhadas](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-sharing.html)
+* [NACL](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-network-acls.html)
+* [Grupos de segurança](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-security-groups.html)
+* [Stateful](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-security-groups.html)
+* [Stateless](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-network-acls.html)
+* [Tabela de rotas](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Route_Tables.html)
+* Gateways
+  * [Internet Gateway](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Internet_Gateway.html)
+  * [Egress Only Internet Gateway](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/egress-only-internet-gateway.html)
+* [IP Elástico](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html)
+* [Lista de Prefixos Gerenciados](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/working-with-aws-managed-prefix-lists.html)
+* [Suporte a IPv6](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-migrate-ipv6-add.html)
+* [Network Address Usage](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-ip-addressing.html)
+* [Direct Connect](https://docs.aws.amazon.com/pt_br/directconnect/latest/UserGuide/Welcome.html)
+* Endpoints de VPC
+  * [Endpoint de Interface](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpce-interface.html)
+  * [Endpoint de Gateway](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpce-gateway.html)
+  * [Endpoint de Gateway Load Balancer](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpce-gateway-load-balancer.html)
+* [PrivateLink](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-endpoints.html)
+* [VPC Flow Logs](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/flow-logs.html)
+* [AWS Virtual Private Network (AWS VPN)](https://docs.aws.amazon.com/pt_br/vpn/latest/s2svpn/VPC_VPN.html)
+* [Site-to-Site VPN](https://docs.aws.amazon.com/pt_br/vpn/latest/s2svpn/VPC_VPN.html)
+* [Virtual Private Gateway (VGW)](https://docs.aws.amazon.com/pt_br/vpn/latest/s2svpn/VPC_VPN.html)
+* [Customer Gateway (Gateway de Cliente - CGW)](https://docs.aws.amazon.com/pt_br/vpn/latest/s2svpn/VPC_VPN.html)
+* [Transit Gateway para VPN](https://docs.aws.amazon.com/pt_br/vpc/latest/tgw/what-is-transit-gateway.html)
+* [AWS Client VPN](https://docs.aws.amazon.com/pt_br/vpn/latest/clientvpn-admin/what-is.html)
+* Network Address Translation - NAT
+  * [Gateway NAT](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-nat-gateway.html)
+  * [Instância NAT](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_NAT_Instance.html)
+* [Jumpbox](https://docs.aws.amazon.com/pt_br/whitepapers/latest/aws-vpc-connectivity-options/aws-vpc-connectivity-options.html)
+* [VPC Lattice](https://docs.aws.amazon.com/pt_br/vpc/latest/lattice/what-is-vpc-lattice.html)
+* [Transit Gateway](https://docs.aws.amazon.com/pt_br/vpc/latest/tgw/what-is-transit-gateway.html)
+* [Espelhamento de Tráfego](https://docs.aws.amazon.com/pt_br/vpc/latest/mirroring/what-is-traffic-mirroring.html)
+* [Route53 Resolver DNS Firewall](https://docs.aws.amazon.com/pt_br/route53/latest/dns-firewall/what-is-dns-firewall.html)
+* [AWS Network Firewall](https://docs.aws.amazon.com/pt_br/network-firewall/latest/developerguide/what-is-aws-network-firewall.html)
+* [Emparelhamento de VPC (VPC Peering)](https://docs.aws.amazon.com/pt_br/vpc/latest/peering/what-is-vpc-peering.html)
+
+
+## [AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/welcome.html)
+
+* [Versões de Funções](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-versions.html)
+* [Aliases](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-aliases.html)
+* [Layers](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/chapter-layers.html)
+* [Sets de Instruções](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/foundation-progmodel.html)
+* [Tempos de execuções (Runtimes)](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/lambda-runtimes.html)
 * [Runtimes apenas para sistema operacional](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/runtimes-provided.html)
-* Pacotes de implantações
-* Modelo de programação
-* Assinatura de Código
-* Blueprints de Funções
-* Aplicações
-* Lambda Private Networking
-* Cold Starts
-* Ambientes de Execução
+* [Pacotes de implantações](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/java-package.html)
+* [Modelo de programação](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/foundation-progmodel.html)
+* [Assinatura de Código](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-codesigning.html)
+* [Blueprints de Funções](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/lambda-samples.html)
+* [Aplicações](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/lambda-samples.html)
+* [Lambda Private Networking](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-vpc.html)
+* [Cold Starts](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/lambda-runtime-environment.html)
+* [Ambientes de Execução](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/lambda-runtime-environment.html)
 * Concorrência
-  * Reservada
-  * Provisionada
-* Variáveis de Ambiente
-* Armazenamento Temporário
-* Montagem de Elastic File System (EFS)
-* URLs de Funções
-* Power Tuning
-* Roles de Execução
-* Logs de Funções
-* Extensões
-* SnapStart
-* Invocação Síncrona (Sync)
-* Invocação Assíncrona (Async)
+
+  * [Reservada](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-concurrency.html)
+  * [Provisionada](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/provisioned-concurrency.html)
+* [Variáveis de Ambiente](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-envvars.html)
+* [Armazenamento Temporário](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/lambda-functions.html)
+* [Montagem de Elastic File System (EFS)](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-filesystem.html)
+* [URLs de Funções](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/urls.html)
+* [Power Tuning](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/power-tuning.html)
+* [Roles de Execução](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/lambda-intro-execution-role.html)
+* [Logs de Funções](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/monitoring-functions-logs.html)
+* [Extensões](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/using-extensions.html)
+* [SnapStart](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/snapstart.html)
+* [Invocação Síncrona (Sync)](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/invocation-sync.html)
+* [Invocação Assíncrona (Async)](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/invocation-async.html)
+
 
 ## CloudFront
 * Lambda@Edge
