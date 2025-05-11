@@ -754,7 +754,7 @@ Abaixo há os links para o site da documentação da AWS.
 
 ## [Athena](https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html)
 
-* [Componentes](https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html)
+* [Componentes](https://docs.aws.amazon.com/pt_br/athena/latest/ug/accessing-athena.html)
 * [Tipos de Dados](https://docs.aws.amazon.com/pt_br/athena/latest/ug/data-types.html)
 * [Tabela](https://docs.aws.amazon.com/pt_br/athena/latest/ug/tables-databases-columns-names.html)
 * [SerDe](https://docs.aws.amazon.com/pt_br/athena/latest/ug/serde-reference.html)
