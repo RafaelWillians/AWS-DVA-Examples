@@ -359,42 +359,51 @@ Abaixo há os links para o site da documentação da AWS.
 * [CloudFormation Registry](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/registry.html)
 * [Prevent Stack Updates](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/protect-stack-resources.html)
 
-## SAM
-* Comparativo SAM x CloudFormation
-* Comandos CLI
+## [SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
+
+* [Comparativo SAM x CloudFormation](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-vs-cloudformation.html)
+* [Comandos CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-commands.html)
 
 ## Conceitos de CI/CD
-* Continuous Integration (CI)
-* Continuous Delivery (CD)
-* Continuous Deployment (CD)
 
-## CodeCommit
-* Características
+* [Continuous Integration (CI)](https://www.youtube.com/watch?v=1Yc3PzYVgS8)
+* [Continuous Delivery (CD)](https://www.youtube.com/watch?v=aoX0bZt9Kro)
+* [Continuous Deployment (CD)](https://www.youtube.com/watch?v=K4YxjvD7q3s)
 
-## Docker
-* Dockerfile
-* Comandos Docker
+## [CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html)
 
-## CodeBuild
-* Fluxo de trabalho
-* Ambientes de build
-* Buildspec.yml
-* Casos de uso
+* [Características](https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html)
 
-## CodeDeploy
-* Componentes principais
-* Tipos de implantações
-  * In-Place
-  * Blue/Green
-* Appspec.yml
-* Lifecycle hooks
-* Agent e Service Roles
+## [Docker](https://docs.docker.com/get-started/overview/)
 
-## CodePipeline
-* Componentes principais
-* Actions
-* Exemplos
-* Casos de Uso
+* [Dockerfile](https://docs.docker.com/engine/reference/builder/)
+* [Comandos Docker](https://docs.docker.com/engine/reference/commandline/docker/)
+
+## [CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
+
+* [Fluxo de trabalho](https://docs.aws.amazon.com/codebuild/latest/userguide/how-codebuild-works.html)
+* [Ambientes de build](https://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html)
+* [Buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html)
+* [Casos de uso](https://docs.aws.amazon.com/codebuild/latest/userguide/use-cases.html)
+
+## [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
+
+* [Componentes principais](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
+* [Tipos de implantações](https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-steps.html)
+
+  * [In-Place](https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-steps.html#deployment-steps-in-place)
+  * [Blue/Green](https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-steps.html#deployment-steps-blue-green)
+* [Appspec.yml](https://docs.aws.amazon.com/codedeploy/latest/userguide/app-spec-ref.html)
+* [Lifecycle hooks](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
+* [Agent e Service Roles](https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent.html)
+
+## [CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
+
+* [Componentes principais](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
+* [Actions](https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html#actions)
+* [Exemplos](https://docs.aws.amazon.com/codepipeline/latest/userguide/getting-started.html)
+* [Casos de Uso](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
+
 
 ## RDS
 * Criptografia
