@@ -213,24 +213,24 @@ Abaixo há os links para o site da documentação da AWS.
 * [Filas temporárias](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html)
 * [Sondagem curta e sondagem longa](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html)
 
-## Kinesis
-* Kinesis Data Streams
-* EFO
-* KPL
-* KCL
-* Kinesis Data Firehose
-* Kinesis Video Streams
-* Kinesis Data Analytics (Amazon Managed Service for Apache Flink)
+## [Kinesis](https://docs.aws.amazon.com/pt_br/streams/latest/dev/introduction.html)
+* [Kinesis Data Streams](https://docs.aws.amazon.com/pt_br/streams/latest/dev/introduction.html)
+* [EFO (Enhanced Fanout)](https://docs.aws.amazon.com/pt_br/glue/latest/dg/aws-glue-programming-etl-connect-kinesis-efo.html)
+* [KPL - Kinesis Producer Library](https://docs.aws.amazon.com/pt_br/streams/latest/dev/kinesis-kpl-concepts.html)
+* [KCL - Kinesis Client Library](https://docs.aws.amazon.com/pt_br/streams/latest/dev/kcl.html)
+* [Kinesis Data Firehose](https://docs.aws.amazon.com/pt_br/firehose/latest/dev/what-is-this-service.html)
+* [Kinesis Video Streams](https://docs.aws.amazon.com/pt_br/kinesisvideostreams/latest/dg/what-is-kinesis-video.html)
+* [Kinesis Data Analytics (atualmente como Amazon Managed Service for Apache Flink)](https://docs.aws.amazon.com/pt_br/kinesisanalytics/latest/dev/what-is.html)
 
-## Systems Manager - Parameter Store
-* Casos de Uso
-* Políticas de parâmeros
-* Hierarquia de CLI
+## [Systems Manager - Parameter Store](https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/systems-manager-parameter-store.html)
+* [Casos de Uso](https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/systems-manager-best-practices.html)
+* [Políticas de parâmeros](https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/parameter-store-policies.html)
+* [Hierarquia de parâmetros](https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/sysman-paramstore-hierarchies.html)
 
-## Secrets Manager
-* Casos de Uso
-* Rotação automática
-* CLI
+## [Secrets Manager](https://docs.aws.amazon.com/pt_br/secretsmanager/latest/userguide/intro.html)
+* [Casos de Uso](https://aws.amazon.com/secrets-manager/)
+* [Rotação automática](https://docs.aws.amazon.com/pt_br/secretsmanager/latest/userguide/rotating-secrets.html)
+* [CLI](https://docs.aws.amazon.com/pt_br/cli/v1/userguide/cli_secrets-manager_code_examples.html)
 
 ## DynamoDB
 * Tabelas
