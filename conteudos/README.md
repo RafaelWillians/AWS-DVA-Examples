@@ -777,7 +777,6 @@ Abaixo há os links para o site da documentação da AWS.
 * [Mover volumes através de snapshots](https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-copy-snapshot.html)
 * [Volumes EBS x Volumes de armazenamento de instâncias (Instance store)](https://repost.aws/knowledge-center/instance-store-vs-ebs)
 * [Esquemas de particionamento](https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/volume_constraints.html#partitioning)
-* [Bloqueio de endereço lógico](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-using-volumes.html)
 * [EBS Multi-Attach](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volumes-multi.html)
 
 ## [AppConfig](https://docs.aws.amazon.com/pt_br/appconfig/latest/userguide/what-is-appconfig.html)
