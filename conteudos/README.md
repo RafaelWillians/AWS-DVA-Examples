@@ -258,7 +258,7 @@ Abaixo há os links para o site da documentação da AWS.
   * [Global Secondary Indexes (GSI)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GSI.html)
 * [DynamoDB Accelerator (DAX)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DAX.concepts.html)
 
-## EC2
+## [EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
 * [Cloud Init](https://docs.aws.amazon.com/linux/al2/ug/amazon-linux-cloud-init.html)
 * [Dados de usuário (UserData)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
 * [Metadados](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
@@ -282,9 +282,9 @@ Abaixo há os links para o site da documentação da AWS.
 * [Hostnames](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-hostname.html)
 * [Nome de usuário padrão](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html#AccessingInstancesLinux_connecting)
 
-## IAM
+## [IAM](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/introduction.html)
 
-* **Componentes principais**
+* Componentes principais
 
   * [Usuários](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_users.html)
   * [Grupos](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_groups.html)
@@ -301,14 +301,14 @@ Abaixo há os links para o site da documentação da AWS.
 * [Federação de Identidade](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_roles_providers.html)
 * [AssumeRoleWithWebIdentity](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_request.html)
 
-## CloudTrail
+## [CloudTrail](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
 
 * [Histórico de eventos](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/view-cloudtrail-events.html)
 * [Trilhas](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/cloudtrail-create-and-update-a-trail.html)
 * [CloudTrail para CloudWatch](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/send-cloudtrail-events-to-cloudwatch-logs.html)
 * [Gerenciamento e Eventos de dados](https://docs.aws.amazon.com/pt_br/awscloudtrail/latest/userguide/logging-data-events-with-cloudtrail.html)
 
-## CloudWatch
+## [CloudWatch](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
 
 * [Conceitos de Observabilidade](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
 * [Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
