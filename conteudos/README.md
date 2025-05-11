@@ -774,7 +774,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [HDD](https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-volume-types.html#vol-type-hdd)
 * [RAID](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/raid-config.html)
 * [SSD](https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-volume-types.html#vol-type-ssd)
-* [Mover volumes](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-moving-volume.html)
+* [Mover volumes através de snapshots](https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-copy-snapshot.html)
 * [Volumes EBS x Volumes de armazenamento de instâncias (Instance store)](https://repost.aws/knowledge-center/instance-store-vs-ebs)
 * [Esquemas de particionamento](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-partitioning.html)
 * [Bloqueio de endereço lógico](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-using-volumes.html)
