@@ -143,6 +143,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Record Sets](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/rrsets-working-with.html)
 * [Fluxo de tráfego](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/traffic-flow.html)
 * [Políticas de roteamento](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy.html)
+
   * [Simples](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-simple.html)
   * [Ponderado](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-weighted.html)
   * [Failover](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-failover.html)
@@ -160,6 +161,7 @@ Abaixo há os links para o site da documentação da AWS.
 ## [KMS](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/overview.html)
 * [Comandos CLI](https://docs.aws.amazon.com/pt_br/cli/v1/userguide/cli_kms_code_examples.html)
 * [Chaves](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html)
+
   * [Chaves gerenciadas pela AWS](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html#aws-managed-cmk)
   * [Chaves gerenciadas pelo cliente - CMK (Customer Managed Keys)](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html#customer-cmk)
 
@@ -171,6 +173,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [JWT](https://auth0.com/docs/secure/tokens/json-web-tokens)
 * [JWK](https://auth-wiki.logto.io/pt-br/jwk)
 * [Grupos de Usuários (User Pools)](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-user-pools.html)
+
   * [Clientes de Aplicação](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/user-pool-settings-client-apps.html)
   * [Política de senhas](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/aws-properties-cognito-userpool-passwordpolicy.html)
   * [Atributos do usuário](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/user-pool-settings-attributes.html)
@@ -237,6 +240,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Consistência de leituras](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.ReadConsistency.html)
 * [Partições](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
 * [Chaves primárias](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html)
+
   * Simples
   * Composta
 * [Query](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Query.html)
@@ -250,6 +254,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [DynamoDB Streams](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Streams.html)
 * [Erros comuns](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Programming.Errors.html)
 * [Índices](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
+
   * [Local Secondary Indexes (LSI)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/LSI.html)
   * [Global Secondary Indexes (GSI)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GSI.html)
 * [DynamoDB Accelerator (DAX)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DAX.concepts.html)
