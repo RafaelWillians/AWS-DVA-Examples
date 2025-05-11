@@ -432,86 +432,87 @@ Abaixo há os links para o site da documentação da AWS.
 * [Suporte estendido](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_Maintenance.html)
 
 
-## S3
-* Regras de nomes de buckets
-* Restrições e limitações de buckets
-* Tipos de buckets
-* Diretórios nos buckets
-* Objetos
-* Etags de objetos
-* Checksums de objetos
-* Prefixos de objetos
+## [Amazon S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html)
+
+* [Regras de nomes de buckets](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-bucket-naming-rules.html)
+* [Restrições e limitações de buckets](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-bucket-naming-rules.html)
+* [Tipos de buckets](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-bucket-naming-rules.html)
+* [Diretórios nos buckets](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-bucket-naming-rules.html)
+* [Objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingObjects.html)
+* [Etags de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingObjects.html)
+* [Checksums de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingObjects.html)
+* [Prefixos de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingObjects.html)
 * Metadados de objetos
-  * Definidos pelo sistema
-  * Definidos pelo usuário
-* Worm
-* Object Lock
-  * Travas de retenções (Retention Holds)
-  * Travas legais (Legal Holds)
-* URI do bucket
-* CLI
-* Estilos de requisições
-* Endpoints dualstack
-* Classes de armazenamento
-  * Standard
-  * Standard-IA
-  * Express One-Zone
-  * One Zone-IA
-  * Glacier Instant Retrieval
-  * Glacier Flexible Retrieval
-  * Glacier Deep Archive
-  * Intelligent Tiering
+  * [Definidos pelo sistema](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingMetadata.html)
+  * [Definidos pelo usuário](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingMetadata.html)
+* [WORM](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/object-lock.html)
+* [Object Lock](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/object-lock.html)
+  * [Travas de retenções (Retention Holds)](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/object-lock.html)
+  * [Travas legais (Legal Holds)](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/object-lock.html)
+* [URI do bucket](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingBucket.html)
+* [CLI](https://docs.aws.amazon.com/pt_br/cli/latest/reference/s3/index.html)
+* [Estilos de requisições](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/VirtualHosting.html)
+* [Endpoints dualstack](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/VirtualHosting.html)
+* [Classes de armazenamento](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [Standard](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [Standard-IA](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [Express One-Zone](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [One Zone-IA](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [Glacier Instant Retrieval](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [Glacier Flexible Retrieval](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [Glacier Deep Archive](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
+  * [Intelligent Tiering](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html)
 * Segurança
-    * Block Public Access
-    * ACL
-    * Políticas de Bucket
-    * IAM Access Analyzer for S3
-    * Políticas de Bucket x Políticas IAM
-    * Concessões de acesso
-    * Privacidade de tráfego interredes
-    * CORS
+  * [Block Public Access](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/access-control-block-public-access.html)
+  * [ACL](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/acl-overview.html)
+  * [Políticas de Bucket](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/bucket-policies.html)
+  * [IAM Access Analyzer for S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/access-analyzer.html)
+  * [Políticas de Bucket x Políticas IAM](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/using-iam-policies.html)
+  * [Concessões de acesso](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/acl-overview.html)
+  * [Privacidade de tráfego interredes](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/privatelink-interface-endpoints.html)
+  * [CORS](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/cors.html)
 * Criptografia
-  * Em trânsito
-  * Em repouso
-  * SS3-S3
-  * SSE-KMS
-  * SSE-C
-  * DSSE-KMS
-  * Chave de bucket
-  * Criptografia do lado do cliente
-* Consistência de dados
+  * [Em trânsito](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingEncryption.html)
+  * [Em repouso](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingEncryption.html)
+  * [SSE-S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingEncryption.html)
+  * [SSE-KMS](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingKMSEncryption.html)
+  * [SSE-C](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/ServerSideEncryptionCustomerKeys.html)
+  * [DSSE-KMS](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingDSSEncryption.html)
+  * [Chave de bucket](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/bucket-key.html)
+  * [Criptografia do lado do cliente](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingClientSideEncryption.html)
+* [Consistência de dados](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Introduction.html)
 * Replicação de objetos
-  * Entre regiões (Cross-region)
-  * Mesma região (Same-region)
-  * Bi-direcional
-  * Em lote (Batch replication)
-  * Regras de configuração de replicação
+  * [Entre regiões (Cross-region)](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/replication.html)
+  * [Mesma região (Same-region)](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/replication.html)
+  * [Bi-direcional](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/replication.html)
+  * [Em lote (Batch replication)](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/replication.html)
+  * [Regras de configuração de replicação](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/replication-add-config.html)
 * Versionamento
-  * Adicionar versões de objetos
-  * Listar versões de objetos
-  * Consultar versões de objetos
-  * Excluir versões de objetos
-  * Restaurar versões de objetos
-  * MFA Delete
+  * [Adicionar versões de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Versioning.html)
+  * [Listar versões de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Versioning.html)
+  * [Consultar versões de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Versioning.html)
+  * [Excluir versões de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/DeletingObjectVersions.html)
+  * [Restaurar versões de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Versioning.html)
+  * [MFA Delete](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html)
 * S3 Lifecycle (Ciclo de Vida do S3)
-  * Transição de objetos
-  * Expiração de objetos
-  * Configurações de transição
-  * Política de ciclo de vida
-* S3 Transfer Acceleration
-* URLs Pré-Assinadas
+  * [Transição de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html)
+  * [Expiração de objetos](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/lifecycle-expire-general-considerations.html)
+  * [Configurações de transição](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html)
+  * [Política de ciclo de vida](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/lifecycle-configuration-examples.html)
+* [S3 Transfer Acceleration](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/transfer-acceleration.html)
+* [URLs Pré-Assinadas](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
 * Access Points
-  * Access Points Multirregião
-  * Object Lambda Access Points
-* Mountpoint for Amazon S3
-* Objetos arquivados
-* Objetos arquivados restaurados
+  * [Access Points Multirregião](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/multi-region-access-points.html)
+  * [Object Lambda Access Points](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/transforming-objects.html)
+* [Mountpoint for Amazon S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/mountpoint.html)
+* [Objetos arquivados](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/archived-objects.html)
+* [Objetos arquivados restaurados](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/restoring-archived-objects.html)
 * Requesters Pay
-  * Header
-  * Troubleshooting
-* AWS Marketplace for S3
-* S3 Batch Operations
-* S3 Inventory
+  * [Header](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/RequesterPaysBuckets.html)
+  * [Troubleshooting](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/RequesterPaysBuckets.html)
+* [AWS Marketplace for S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/marketplace.html)
+* [S3 Batch Operations](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/batch-ops.html)
+* [S3 Inventory](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-inventory.html)
 * S3 Select
   * Comparativo S3 Select x Athena
 * Tags de objetos
