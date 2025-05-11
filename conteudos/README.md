@@ -255,27 +255,28 @@ Abaixo há os links para o site da documentação da AWS.
 * [DynamoDB Accelerator (DAX)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DAX.concepts.html)
 
 ## EC2
-* Cloud Init
-* Dados de usuário (UserData)
-* Metadados
-* Tipos de instâncias
-* Famílias de instâncias
-* Processadores
-* Instâncias burstable
-* Verificações de origem e destino
-* Logs do sistema
-* Grupos de posicionamento
-  * Cluster
-  * Partição
-  * Distribuição (Spread)
-* EC2 Connect
-* Amazon Linux
-* Tamanhos de instâncias
-* Perfis de instâncias
-* Ciclo de vida de instâncias
-* Screenshot do console da instância
-* Hostnames
-* Nome de usuário padrão
+* [Cloud Init](https://docs.aws.amazon.com/linux/al2/ug/amazon-linux-cloud-init.html)
+* [Dados de usuário (UserData)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
+* [Metadados](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+* [Tipos de instâncias](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/instance-types.html)
+* [Famílias de instâncias](https://docs.aws.amazon.com/pt_br/ec2/latest/instancetypes/instance-types.html)
+* [Processadores](https://docs.aws.amazon.com/whitepapers/latest/aws-graviton-performance-testing/what-is-aws-graviton.html)
+* [Instâncias burstable](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances.html)
+* [Verificações de origem e destino](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/using-eni.html)
+* [Logs do sistema](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
+* [Grupos de posicionamento](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/placement-groups.html)
+
+  * [Cluster](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/placement-groups.html#placement-groups-cluster)
+  * [Partição](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/placement-groups.html#placement-groups-partition)
+  * [Distribuição (Spread)](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/placement-groups.html#placement-groups-spread)
+* [EC2 Connect](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-methods.html)
+* [Amazon Linux](https://docs.aws.amazon.com/linux/al2/ug/what-is-amazon-linux.html)
+* [Tamanhos de instâncias](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/instance-types.html)
+* [Perfis de instâncias](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html)
+* [Ciclo de vida de instâncias](https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/ec2-auto-scaling-lifecycle.html)
+* [Screenshot do console da instância](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-console-screenshot.html)
+* [Hostnames](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-hostname.html)
+* [Nome de usuário padrão](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html#AccessingInstancesLinux_connecting)
 
 ## IAM
 * Componentes principais
