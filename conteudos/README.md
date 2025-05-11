@@ -52,7 +52,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Tamanhos de Tarefas](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/capacity-tasksize.html)
 * [Comparativo Fargate x Lambda](https://docs.aws.amazon.com/pt_br/decision-guides/latest/fargate-or-lambda/fargate-or-lambda.html)
 
-## [Elastic Container Service (ECS)](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/Welcome.html)
+## [Elastic Container Service - ECS](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/Welcome.html)
 
 #### Função (Role) de execução e Função (Role) de Tarefa
 * [Role de execução](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_execution_IAM_role.html)
@@ -95,10 +95,10 @@ Abaixo há os links para o site da documentação da AWS.
 
 #### [ECS Anywhere](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-anywhere.html)
 
-## [ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html)
+## [Elastic Container Registry - ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html)
 * [Replicação](https://docs.aws.amazon.com/AmazonECR/latest/userguide/replication.html)
 
-## [EKS](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+## [Elastic Kubernetes Service - EKS](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 * [Add Ons](https://docs.aws.amazon.com/eks/latest/userguide/eks-add-ons.html)
 * [EKS Connector](https://docs.aws.amazon.com/pt_br/eks/latest/userguide/eks-connector.html)
 * [EKS CTL](https://docs.aws.amazon.com/pt_br/eks/latest/userguide/getting-started-eksctl.html)
@@ -132,7 +132,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Integração com serviços AWS](https://docs.aws.amazon.com/pt_br/xray/latest/devguide/xray-services.html)
 * [Linguagens suportadas](https://docs.aws.amazon.com/pt_br/xray/latest/devguide/aws-xray-interface-sdk.html)
 
-## [AWS Certificate Manager (ACM)](https://docs.aws.amazon.com/pt_br/acm/latest/userguide/acm-overview.html)
+## [AWS Certificate Manager - ACM](https://docs.aws.amazon.com/pt_br/acm/latest/userguide/acm-overview.html)
 * [SSL Termination](https://aws.amazon.com/blogs/aws/elastic-load-balancer-support-for-ssl-termination/)
 
 ## [Route 53](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/Welcome.html)
@@ -157,7 +157,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Alias](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
 * [AWS Private Certificate Authority](https://docs.aws.amazon.com/pt_br/privateca/latest/userguide/PcaWelcome.html)
 
-## [KMS](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/overview.html)
+## [Key Management Service - KMS](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/overview.html)
 * [Comandos CLI](https://docs.aws.amazon.com/pt_br/cli/v1/userguide/cli_kms_code_examples.html)
 * [Chaves](https://docs.aws.amazon.com/pt_br/kms/latest/developerguide/concepts.html)
 
@@ -188,7 +188,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Integração da autenticação do Cognito em apps web e mobile](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/cognito-integrate-apps.html)
 * [AWS JWT Verify](https://docs.aws.amazon.com/pt_br/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-verifying-a-jwt.html)
 
-## [SNS](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
+## [Simple Notification Service - SNS](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
 * [Pub/Sub](https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/modernization-integrating-microservices/pub-sub.html)
 * [Origens](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-event-sources-and-destinations.html)
 * [Destinos](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-event-sources-and-destinations.html)
@@ -202,7 +202,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Fila de Mensagens Mortas (Dead-Letter Queue)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-dead-letter-queues.html)
 * [Aplicação como Assinante](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-mobile-application-as-subscriber.html)
 
-## [SQS](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
+## [Simple Queue Service - SQS](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
 * [Envio de mensagens grandes](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-managing-large-messages.html)
 * [Fila Padrão](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html)
 * [Fila FIFO](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-fifo-queues.html)
@@ -258,7 +258,7 @@ Abaixo há os links para o site da documentação da AWS.
   * [Global Secondary Indexes (GSI)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GSI.html)
 * [DynamoDB Accelerator (DAX)](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DAX.concepts.html)
 
-## [EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
+## [Elastic Compute Cloud - EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
 * [Cloud Init](https://docs.aws.amazon.com/linux/al2/ug/amazon-linux-cloud-init.html)
 * [Dados de usuário (UserData)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
 * [Metadados](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
@@ -282,7 +282,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Hostnames](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-hostname.html)
 * [Nome de usuário padrão](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html#AccessingInstancesLinux_connecting)
 
-## [IAM](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/introduction.html)
+## [Identity and Access Management - IAM](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/introduction.html)
 
 * Componentes principais
 
@@ -405,7 +405,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Casos de Uso](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
 
 
-## [Amazon RDS](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Welcome.html)
+## [Relational Database Service - RDS](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Welcome.html)
 
 * [Criptografia](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Overview.Encryption.html)
 * [Backup](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html)
@@ -432,7 +432,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Suporte estendido](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_Maintenance.html)
 
 
-## [Amazon S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html)
+## [Simple Storage Service - S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html)
 
 * [Regras de nomes de buckets](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-bucket-naming-rules.html)
 * [Restrições e limitações de buckets](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-bucket-naming-rules.html)
@@ -531,13 +531,13 @@ Abaixo há os links para o site da documentação da AWS.
 * [Pesquisa por Byte Range](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/RangeGET.html)
 * [Interoperabilidade](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingObjects.html)
 
-## [Amazon ElastiCache](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/WhatIs.html)
+## [ElastiCache](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/WhatIs.html)
 
 * [Redis](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/WhatIs.html)
 * [Tipos de Dados](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/json-document-overview.html)
 * [Memcached](https://docs.aws.amazon.com/pt_br/AmazonElastiCache/latest/dg/WhatIs.html)
 
-## [Amazon API Gateway](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/welcome.html)
+## [API Gateway](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/welcome.html)
 
 * [OpenAPI](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/api-gateway-import-api.html)
 * [OpenAPI com o API Gateway](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/api-gateway-import-api.html)
@@ -546,15 +546,15 @@ Abaixo há os links para o site da documentação da AWS.
 * API HTTP
   * [Componentes API HTTP](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api.html)
 
-## [Amazon MemoryDB](https://docs.aws.amazon.com/pt_br/memorydb/latest/devguide/what-is-memorydb.html)
+## [MemoryDB](https://docs.aws.amazon.com/pt_br/memorydb/latest/devguide/what-is-memorydb.html)
 
-## [AWS Step Functions](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/welcome.html)
+## [Step Functions](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/welcome.html)
 
 * [Casos de Uso](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/use-cases.html)
 * [Estados](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/concepts-statemachines.html)
 * [Entradas e Saídas](https://docs.aws.amazon.com/pt_br/step-functions/latest/dg/concepts-input-output-filtering.html)
 
-## [API da AWS – Visão Geral](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-welcome.html)
+## [API da AWS](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-welcome.html)
 
 * [AWS CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-welcome.html)
   * [Comandos](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage.html)
@@ -615,7 +615,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Encoding Base64](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-parameters.html#cli-usage-parameters-base64)
 
 
-## [Amazon VPC](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html)
+## [Virtual Private Cloud - VPC](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html)
 
 * [Componentes](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html#vpc-components)
 * [Recursos principais](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html#vpc-resources)
@@ -660,7 +660,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Emparelhamento de VPC (VPC Peering)](https://docs.aws.amazon.com/pt_br/vpc/latest/peering/what-is-vpc-peering.html)
 
 
-## [AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/welcome.html)
+## [Lambda](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/welcome.html)
 
 * [Versões de Funções](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-versions.html)
 * [Aliases](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-aliases.html)
@@ -693,7 +693,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Invocação Assíncrona (Async)](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/invocation-async.html)
 
 
-## [Amazon CloudFront](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+## [CloudFront](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 
 * [Lambda@Edge](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html)
 * [CloudFront Functions](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/cloudfront-functions.html)
@@ -717,7 +717,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Páginas de erro customizadas](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/custom-error-pages.html)
 
 
-## [Amazon Aurora](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
+## [Aurora](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
 
 * [Escalabilidade](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.how-it-works.html#aurora-serverless-v2.scaling)
 * [Aurora Provisionado](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/USER_OnDemandDBInstances.html)
@@ -728,7 +728,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [API de Dados RDS](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/data-api.html)
 * [Babelfish para Aurora](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/babelfish.html)
 
-## [Elastic Load Balancing](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
+## [Elastic Load Balancer](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
 
 * [Regras de tráfego](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html)
 * [Application Load Balancer](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/introduction.html)
@@ -752,7 +752,7 @@ Abaixo há os links para o site da documentação da AWS.
 * [Verificações de Integridade](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/target-group-health-checks.html)
 * [Registrar/desregistrar alvos](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/target-group-register-targets.html)
 
-## [Amazon Athena](https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html)
+## [Athena](https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html)
 
 * [Componentes](https://docs.aws.amazon.com/pt_br/athena/latest/ug/what-is.html)
 * [Tipos de Dados](https://docs.aws.amazon.com/pt_br/athena/latest/ug/data-types.html)
@@ -764,11 +764,11 @@ Abaixo há os links para o site da documentação da AWS.
 * [Instalar a CLI do AWS Copilot](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/copilot-install.html)
 * [Implantação de uma amostra de aplicação](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/copilot-deploy.html)
 
-## [Amazon EFS](https://docs.aws.amazon.com/pt_br/efs/latest/ug/what-is-efs.html)
+## [Elastic File System - EFS](https://docs.aws.amazon.com/pt_br/efs/latest/ug/what-is-efs.html)
 
 * [EFS Client](https://docs.aws.amazon.com/pt_br/efs/latest/ug/mounting-fs.html)
 
-## [Amazon EBS](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AmazonEBS.html)
+## [Elastic Block Storage - EBS](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AmazonEBS.html)
 
 * [Tipos de Volumes](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volume-types.html)
 * [HDD](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volume-types.html#ebs-volume-types)
@@ -781,59 +781,59 @@ Abaixo há os links para o site da documentação da AWS.
 * [Bloqueio de endereço lógico](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-using-volumes.html)
 * [EBS Multi-Attach](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volumes-multi.html)
 
-## [AWS AppConfig](https://docs.aws.amazon.com/pt_br/appconfig/latest/userguide/what-is-appconfig.html)
+## [AppConfig](https://docs.aws.amazon.com/pt_br/appconfig/latest/userguide/what-is-appconfig.html)
 
 ## [Amazon Q](https://aws.amazon.com/q/)
 
-## [Amazon CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
+## [CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
 
-## [Amazon CodeGuru](https://aws.amazon.com/codeguru/)
+## [CodeGuru](https://aws.amazon.com/codeguru/)
 
-## [Amazon Detective](https://aws.amazon.com/detective/)
+## [Detective](https://aws.amazon.com/detective/)
 
 ## [AWS Batch](https://aws.amazon.com/batch/)
 
-## [AWS Firewall Manager](https://aws.amazon.com/firewall-manager/)
+## [Firewall Manager](https://aws.amazon.com/firewall-manager/)
 
-## [AWS AppSync](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/what-is-appsync.html)
+## [AppSync](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/what-is-appsync.html)
 * [O que é GraphQL?](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/what-is-graphql.html)
 * [Sobre o AppSync](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/what-is-appsync.html)
 
-## [AWS Amplify](https://aws.amazon.com/amplify/)
+## [Amplify](https://aws.amazon.com/amplify/)
 
-## [Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)
+## [OpenSearch Service](https://aws.amazon.com/opensearch-service/)
 
-## [Amazon EMR](https://aws.amazon.com/emr/)
+## [EMR](https://aws.amazon.com/emr/)
 
-## [AWS Glue](https://aws.amazon.com/glue/)
+## [Glue](https://aws.amazon.com/glue/)
 
-## [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/)
+## [Simple Email Service - SES](https://aws.amazon.com/ses/)
 
-## [Amazon FSx](https://aws.amazon.com/fsx/)
+## [FSx](https://aws.amazon.com/fsx/)
 
-## [Amazon EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)
+## [EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)
 
-## [AWS CloudShell](https://aws.amazon.com/cloudshell/)
+## [CloudShell](https://aws.amazon.com/cloudshell/)
 
-## [AWS CodeArtifact](https://aws.amazon.com/codeartifact/)
+## [CodeArtifact](https://aws.amazon.com/codeartifact/)
 
-## [AWS Config](https://aws.amazon.com/config/)
+## [Config](https://aws.amazon.com/config/)
 
-## [AWS Organizations](https://aws.amazon.com/organizations/)
+## [Organizations](https://aws.amazon.com/organizations/)
 
-## [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
+## [Systems Manager](https://aws.amazon.com/systems-manager/)
 
-## [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+## [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
 
-## [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
+## [Global Accelerator](https://aws.amazon.com/global-accelerator/)
 
-## [AWS CloudHSM](https://aws.amazon.com/cloudhsm/)
+## [CloudHSM](https://aws.amazon.com/cloudhsm/)
 
-## [AWS IAM Identity Center (AWS Single Sign-On)](https://aws.amazon.com/iam/identity-center/)
+## [IAM Identity Center (AWS Single Sign-On)](https://aws.amazon.com/iam/identity-center/)
 
-## [Amazon Macie](https://aws.amazon.com/macie/)
+## [Macie](https://aws.amazon.com/macie/)
 
-## [AWS Resource Access Manager (RAM)](https://aws.amazon.com/ram/)
+## [Resource Access Manager - RAM](https://aws.amazon.com/ram/)
 
-## [AWS WAF](https://aws.amazon.com/waf/)
+## [Web-Application Firewall - WAF](https://aws.amazon.com/waf/)
 
