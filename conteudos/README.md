@@ -323,39 +323,41 @@ Abaixo há os links para o site da documentação da AWS.
 * [CloudWatch Agent](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html)
 * [Coleta de Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/AgentReference.html)
 
-## EventBridge
-* Componentes principais
-* Eventos
-* Expressões de agendamento
-* Regras
-* Configurar Entrada
-* Registro de Schema
-* Padrões de Eventos
-* Origens de Eventos de Parceiros
+## [EventBridge](https://docs.aws.amazon.com/pt_br/eventbridge/latest/userguide/eb-what-is.html)
 
-## CloudFormation
-* Componentes de um Template
-* Formatos de Templates
-* Quick Starts
-* Estados das Pilhas
-* Atualizações de Pilhas
-* Políticas de Pilhas
-* Pilhas *Nested
-* Rollbacks
-* Detecção de Desvios
-* ChangeSets
-* CDK
-* Pseudo-parâmetros
-* Atributos de Recursos
-* Funções Intrínsecas
-* Condições de Espera
-* IaC Generator
-* Helper Scripts
-* Init
-* CFN-Hup
-* Recursos customizados
-* CloudFormation Registry
-* Prevent Stack Updates
+* [Componentes principais](https://docs.aws.amazon.com/pt_br/eventbridge/latest/userguide/eb-what-is-how-it-works-concepts.html)
+* [Eventos](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-events.html)
+* [Expressões de agendamento](https://docs.aws.amazon.com/pt_br/scheduler/latest/UserGuide/schedule-types.html)
+* [Regras](https://docs.aws.amazon.com/pt_br/eventbridge/latest/userguide/eb-rules.html)
+* [Configurar Entrada](https://docs.aws.amazon.com/es_es/eventbridge/latest/userguide/eb-transform-input-rule.html)
+* [Registro de Schema](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-schema-registry.html)
+* [Padrões de Eventos](https://docs.aws.amazon.com/pt_br/eventbridge/latest/userguide/eb-event-patterns.html)
+* [Origens de Eventos de Parceiros](https://docs.aws.amazon.com/pt_br/eventbridge/latest/userguide/eb-saas.html)
+
+## [CloudFormation](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/Welcome.html)
+
+* [Componentes de um Template](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/template-anatomy.html)
+* [Formatos de Templates](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/template-formats.html)
+* [Quick Starts](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-console-create-stacks-quick-create-links.html)
+* [Estados das Pilhas](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/stacks.html)
+* [Atualizações de Pilhas](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/updating.stacks.walkthrough.html)
+* [Políticas de Pilhas](https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/least-privilege-cloudformation/cloudformation-stack-policies.html)
+* [Pilhas Aninhadas](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/using-cfn-nested-stacks.html)
+* [Rollbacks](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks-direct.html)
+* [Detecção de Desvios](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/using-cfn-stack-drift.html)
+* [ChangeSets](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks-changesets.html)
+* [CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+* [Pseudo-parâmetros](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+* [Atributos de Recursos](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/aws-properties-name.html)
+* [Funções Intrínsecas](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html)
+* [Condições de Espera](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/using-cfn-waitcondition.html)
+* [IaC Generator](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/using-cfn-cli.html)
+* [Helper Scripts](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/cfn-helper-scripts-reference.html)
+* [Init](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/aws-resource-init.html)
+* [CFN-Hup](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/cfn-hup.html)
+* [Recursos customizados](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/template-custom-resources.html)
+* [CloudFormation Registry](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/registry.html)
+* [Prevent Stack Updates](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/protect-stack-resources.html)
 
 ## SAM
 * Comparativo SAM x CloudFormation
